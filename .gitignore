@@ -30,3 +30,4 @@ proguard/
 
 #eclipse workspace spec file
 .metadata/
+RemoteSystemsTempFiles/
